@@ -81,7 +81,7 @@ namespace TestWebAPI.Controllers
             }
             else if (queryStringParamsDict["q"] == "Source")
             {
-                result = "Yes";
+                result = "https://github.com/punita01/BRealTime.git";
             }
             else
             {
